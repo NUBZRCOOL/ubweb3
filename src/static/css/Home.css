@@ -1,0 +1,92 @@
+html, body {
+    font:"arial";
+    padding: 4px;
+}
+
+/* .game {
+background-color: #7deda8; 
+border-color: black;
+border-radius: 18px;
+color: #de4f4f;
+padding: 30px 80px;
+text-align: center;
+text-decoration: underline;
+display: inline-block;
+font-size: 16px; 
+margin: 14px;
+transition-duration: 0.4s;
+}
+.game:hover {
+color: black;
+text-decoration: none;
+background-color: white;
+border-color:#7deda8 ;
+border-radius: 14px;
+} */
+.form{
+    color: purple;
+    border-color: purple;
+    background-color: white;
+    border-radius: 8px;
+    margin: 12px;
+    transition-duration: 0.4s;
+    padding: 12px 32px;
+}
+.form:hover {
+    background-color: purple;
+    color: white;
+    border-color: none;
+}
+#background {
+    border: double;
+    text-align: center;
+    color:#c897a0;
+    border-color:royalblue;
+}
+
+#amogus {
+    border-radius: 4px;
+    color: gray;
+    transition-duration: 1.0s;
+    background-color: blue;
+    margin: 5px;
+}
+#amogus:hover{
+    padding: 12px 30px;
+}
+
+#faq {
+    text-align: center;
+    padding: 25px;
+    background-color: beige;
+}
+
+#amogi {
+    border-color: brown;
+}
+#rick {
+    font-family: 'Papyrus', fantasy;
+    font-size: 24px;
+    padding: 17px;
+}
+body {
+    background-color: white;
+    color: black;
+}
+.card {
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.dark-mode {
+    background-color: rgb(31, 31, 31);
+    color: rgb(118, 151, 217); 
+}
+#tc {
+    border-color: black;
+    border-style: ridge;
+}
+#changelog {
+    border-color: black;
+    background-color: blue;
+    color: whitesmoke;
+}

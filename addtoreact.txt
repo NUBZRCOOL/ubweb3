@@ -1,0 +1,3 @@
+Color Changing Background for title
+Update Settings
+Fix game dimensions

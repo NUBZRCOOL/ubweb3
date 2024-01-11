@@ -1,0 +1,24 @@
+nav {
+
+    border: 2px solid black;
+    background-color: #8aff8a;
+    width: 75%;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-item {
+
+    display: inline;
+    font-size: 1.08em;
+    color: blue;
+    margin: 10px;
+}
+
+#settings {
+    position: relative;
+    left: 10;
+}
